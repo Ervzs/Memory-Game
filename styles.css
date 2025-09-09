@@ -20,7 +20,8 @@ body{
   background: lightblue;
   margin: 5px;
   width: 150px;  
-  height: 150px;  
+  height: 150px; 
+  cursor: pointer; 
 }
 
 img {
@@ -30,6 +31,6 @@ img {
 }
 
 .display img {
-  visibility: visible;
+  visibility: hidden;
 }
 
